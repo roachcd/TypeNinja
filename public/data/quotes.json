@@ -1,0 +1,43 @@
+[{
+    "title": "Alice's Adventures in Wonderland", 
+    "author": "Lewis Carroll",
+    "excerpt": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, and what is the use of a book, thought Alice, without pictures or conversations?",
+    "count": 57,
+    "chars": 299
+},
+{
+    "title": "Luck", 
+    "author": "Mark Twain",
+    "excerpt": "And what was Scoresby's blunder that time? Merely the mistaking his right hand for his left—that was all. An order had come to him to fall back and support our right; and instead, he fell forward and went over the hill to the left.",
+    "count": 44,
+    "chars": 231
+},
+{
+    "title": "Miss Brill", 
+    "author": "Katherine Mansfield",
+    "excerpt": "Only two people shared her \"special\" seat: a fine old man in a velvet coat, his hands clasped over a huge carved walking-stick, and a big old woman, sitting upright, with a roll of knitting on her embroidered apron.",
+    "count": 39,
+    "chars": 215
+},
+{
+    "title": "House of Usher", 
+    "author": "Edgar Allan Poe",
+    "excerpt": "During the whole of a dull, dark, and soundless day in the autumn of the year, when the clouds hung oppressively low in the heavens, I had been passing alone, on horseback, through a singularly dreary tract of country, and at length found myself, as the shades of the evening drew on, within view of the melancholy House of Usher.",
+    "count": 60,
+    "chars": 330
+},
+{
+    "title": "The Voice in the Night", 
+    "author": "William Hope Hodgson",
+    "excerpt": "I listened for a moment; but there came no answer. And then, a sudden indefinite suspicion, of I knew not what, coming to me, I stepped swiftly to the binnacle and took out the lighted lamp. At the same time, I knocked on the deck with my heel to waken Will.",
+    "count": 51,
+    "chars": 258
+},
+{
+    "title": "Bernice Bobs Her Hair", 
+    "author": "F. Scott Fitzgerald",
+    "excerpt": "After dark on Saturday night, one could stand on the first tee of the golf-course and see the country-club windows as a yellow expanse over a very black and wavy ocean.",
+    "count": 31,
+    "chars": 168
+}
+]
