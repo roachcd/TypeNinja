@@ -1,4 +1,7 @@
 <template>
+  <div class="warning">
+    <h1>Sadly, this game does not work on phone.</h1>
+  </div>
   <div class="home">
     <h1>Type Ninja</h1>
     <br>
@@ -194,5 +197,21 @@ export default {
   .aboutDiv{
     position: fixed;
     bottom: 30px;
+  }
+  .warning{
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    color: white;
+    background-color: #14120D;
+    z-index: 99;
+  }
+  @media all and (max-width: 631px){
+    .warning{
+      display: block;
+    }
   }
 </style>

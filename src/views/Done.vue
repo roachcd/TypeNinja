@@ -3,7 +3,7 @@
     <h1>Type Ninja</h1>
     <h2>WPM: {{this.wpm}}</h2><br>
     <h2>Accuracy: {{ this.accuracy }}%</h2><br>
-    <a href="/">Play Again</a>
+    <a href="/typeninja">Play Again</a>
   </div>
 </template>
 
