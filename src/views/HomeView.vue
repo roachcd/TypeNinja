@@ -113,7 +113,7 @@ export default {
               timeStore.setWpm(this.wpm); 
               timeStore.setAccuracy(accuracy);
 
-              this.$router.push({ name: "done" });
+              this.$router.push({ path: '/done' })
             }
         }
   }

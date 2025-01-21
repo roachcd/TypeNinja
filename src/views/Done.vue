@@ -11,8 +11,6 @@
 
 import {useTimeStore} from '@/stores/time.js'
 
-const timeStore = useTimeStore()
-
 export default {
     name: 'Done',
     data(){
@@ -21,7 +19,10 @@ export default {
         accuracy: -1
       }
     },
+    created(){
+    },
     mounted(){
+      const timeStore = useTimeStore()
       this.wpm = Math.round(timeStore.time.wpm);
       this.accuracy = Math.round(timeStore.time.accuracy);
     }
